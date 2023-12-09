@@ -11,5 +11,7 @@ Trong đó:
 v: là tổng số vote của bộ phim đó
 
 m: là lượng vote tối thiểu để có thể được liệt kê trong danh sách
+
 R: là điểm số trung bình điểm đánh giá của bộ phim đó
+
 C: là số lượng vote trung bình của toàn bộ tập dữ liệu
