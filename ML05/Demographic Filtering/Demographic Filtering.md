@@ -4,7 +4,7 @@ Sẽ đưa ra các đề xuất tổng quát cho mọi người dùng, dựa tr�
 
 Tập dữ liệu mà nhóm sử dụng không có dữ liệu đầu vào cụ thể để phân chia theo các nhóm nhân khẩu học nên nhóm sẽ hướng đến sử dụng theo kiểu đề xuất dựa trên mức độ phổ biến của phim trên thể loại và nhóm cần một phương tiện để tính toán nên nhóm sẽ dùng hàm tính toán WR của IMDB:
 
-Weighted Rating (WR)=(v/(v+m).R)+(m/(v+m).C)
+Weighted Rating (WR)=(v.R/(v+m)+m.C/(v+m))
 
 Trong đó:
 
