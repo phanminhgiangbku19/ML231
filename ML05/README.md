@@ -4,3 +4,11 @@
 
   Cho nên nhóm quyết định đánh sâu vào việc tìm hiểu và làm rõ cách thức hoạt động của một “hệ thống đề xuất film (film recommended system)” để từ đó có thể thực hiện được một hệ thống đề xuất phim đơn giản dựa trên 3 phương pháp đề xuất cơ bản nhất đó là: **Demographic Filtering**, **Content Based Filtering**, **Collabotative Filtering**.
 
+Nhiệm vụ chính của đề tài:
+  + Tìm hiểu khái niệm Demographic Filtering.
+  + Tìm hiểu khái niệm Content Based Filtering.
+  + Tìm hiểu khái niệm Collabotative Filtering.
+  + Tìm hiểu khái niệm thuật toán KNN.
+  + Tạo một hệ thống đề xuất phim dựa trên phương pháp Demographic Filtering sử dụng python và thư viện sklearn.
+  + Tạo một hệ thống đề xuất phim dựa trên phương pháp Content Based Filtering sử dụng python và thư viện sklearn.
+  + Tạo một hệ thống đề xuất phim dựa trên phương pháp Collabotative Filtering sử dụng python và thư viện sklearn.
